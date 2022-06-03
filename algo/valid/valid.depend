@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630765614 source:d:\c++\algo\valid\main.cpp
+	<bits/stdc++.h>
+
+1630767936 source:d:\c++\algo\valid\vv.cpp
+	<stdio.h>
+	<stdlib.h>
+

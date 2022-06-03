@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646895693 source:e:\c++\newfolder\pixel\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<bits/stdc++.h>
+	<iostream>
+

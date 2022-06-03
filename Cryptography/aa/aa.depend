@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646864733 source:d:\c++\new folder\aa\main.cpp
+	<windows.h>
+	<limits.h>
+	<sstream>
+

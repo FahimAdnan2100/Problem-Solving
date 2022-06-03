@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634102469 source:d:\c++\algo\first from\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

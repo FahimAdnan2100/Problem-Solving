@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634068843 source:d:\c++\algo\postfix1\main.cpp
+	<iostream>
+	<cmath>
+	<stack>
+

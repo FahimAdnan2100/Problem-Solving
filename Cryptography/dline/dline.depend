@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646892529 source:e:\c++\newfolder\dline\main.cpp
+	<graphics.h>
+
+1646892764 source:e:\c++\newfolder\dline\line.cpp
+	<graphics.h>
+

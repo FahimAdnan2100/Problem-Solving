@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630195515 source:e:\c++\algo\tokenizeastring\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1630195515 source:d:\c++\algo\tokenizeastring\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
